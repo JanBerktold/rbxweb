@@ -2,7 +2,7 @@
 package group
 
 import (
-	"github.com/anaminus/rbxweb"
+	"github.com/JanBerktold/rbxweb"
 	"net/url"
 	"strconv"
 )

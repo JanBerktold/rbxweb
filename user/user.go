@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 	"strconv"
-	"github.com/anaminus/rbxweb"
+	"github.com/JanBerktold/rbxweb"
 )
 
 // Info contains information about the current user.

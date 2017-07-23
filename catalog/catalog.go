@@ -3,7 +3,7 @@ package catalog
 
 import (
 	"encoding/json"
-	"github.com/anaminus/rbxweb"
+	"github.com/JanBerktold/rbxweb"
 	"net/url"
 )
 

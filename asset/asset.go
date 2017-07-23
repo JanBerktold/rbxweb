@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
-	"github.com/anaminus/rbxweb"
+	"github.com/JanBerktold/rbxweb"
 	"io"
 	"net/http"
 	"net/url"
